@@ -1,0 +1,13 @@
+{
+  "title": "Divergent bilirubin and concordant direction of ferritin effect in Graves' disease and autoimmune hypothyroidism: a subtype-resolved two-sample Mendelian randomization study",
+  "upload_type": "software",
+  "description": "R and Python analysis code, configuration, frozen harmonised inputs and expected-result files for a two-sample Mendelian randomization study of autoimmune thyroid disease and sixteen haematological phenotypes.",
+  "creators": [
+    {"name": "Gan, Chuan", "orcid": "0009-0004-8207-8430", "affiliation": "School of Basic Medicine, Guangxi University of Chinese Medicine, Nanning, China"},
+    {"name": "Gan, Lu", "orcid": "0009-0007-6753-7389", "affiliation": "Zhangmu Town Central Health Center of Fumian, Yulin, China"},
+    {"name": "Xia, Meng", "orcid": "0000-0001-8075-9698", "affiliation": "School of Basic Medicine, Guangxi University of Chinese Medicine, Nanning, China"}
+  ],
+  "license": "MIT",
+  "keywords": ["Mendelian randomization", "autoimmune thyroid disease", "Graves disease", "autoimmune hypothyroidism", "anaemia", "reticulocyte", "bilirubin", "ferritin"],
+  "language": "eng"
+}

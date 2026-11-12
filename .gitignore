@@ -1,0 +1,15 @@
+# Generated at run time
+data/raw/
+data/mr/
+results/
+figures/
+
+# R session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
