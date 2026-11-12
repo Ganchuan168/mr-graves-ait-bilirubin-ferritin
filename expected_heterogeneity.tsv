@@ -1,0 +1,97 @@
+id.exposure	id.outcome	outcome	exposure	method	Q	Q_df	Q_pval
+AIH	CRP	CRP	AIH	Inverse variance weighted (multiplicative random effects)	997.543586837453	172	2.18246064767368e-116
+AIH	CRP	CRP	AIH	MR Egger	979.382278154067	171	1.68211468601972e-113
+AIH	DBIL	DBIL	AIH	Inverse variance weighted (multiplicative random effects)	558.603045154041	172	2.10839653312778e-42
+AIH	DBIL	DBIL	AIH	MR Egger	544.984812324246	171	1.32201532466349e-40
+AIH	ferritin	ferritin	AIH	Inverse variance weighted (multiplicative random effects)	307.295828096783	171	7.72997475037025e-10
+AIH	ferritin	ferritin	AIH	MR Egger	307.215513519109	170	5.80801904691609e-10
+AIH	Hb	Hb	AIH	Inverse variance weighted (multiplicative random effects)	2013.5278799351	172	1.11455185194826e-308
+AIH	Hb	Hb	AIH	MR Egger	2013.50364563273	171	1.11312948426906e-308
+AIH	Hct	Hct	AIH	Inverse variance weighted (multiplicative random effects)	1783.7562316105	172	1.07612336128845e-265
+AIH	Hct	Hct	AIH	MR Egger	1782.64117023025	171	5.50810115617449e-266
+AIH	IRF	IRF	AIH	Inverse variance weighted (multiplicative random effects)	846.615214519091	172	1.1825774534201e-89
+AIH	IRF	IRF	AIH	MR Egger	846.324131532874	171	5.95437709940445e-90
+AIH	MCH	MCH	AIH	Inverse variance weighted (multiplicative random effects)	1618.5786506467	172	2.07612955978234e-233
+AIH	MCH	MCH	AIH	MR Egger	1578.12386798033	171	4.84514717216125e-226
+AIH	MCHC	MCHC	AIH	Inverse variance weighted (multiplicative random effects)	440.455488275067	172	1.82164677360777e-25
+AIH	MCHC	MCHC	AIH	MR Egger	437.654821986353	171	2.68261698128981e-25
+AIH	MCV	MCV	AIH	Inverse variance weighted (multiplicative random effects)	1817.45200552701	172	2.5404208524754e-272
+AIH	MCV	MCV	AIH	MR Egger	1746.03926203617	171	8.48434529399499e-259
+AIH	MRV	MRV	AIH	Inverse variance weighted (multiplicative random effects)	1460.88023551623	172	6.05923060733317e-203
+AIH	MRV	MRV	AIH	MR Egger	1425.38810380496	171	1.32276504253689e-196
+AIH	RBC	RBC	AIH	Inverse variance weighted (multiplicative random effects)	1953.70174594284	172	3.04891924385238e-299
+AIH	RBC	RBC	AIH	MR Egger	1937.4318726801	171	1.516178666506e-296
+AIH	RDW	RDW	AIH	Inverse variance weighted (multiplicative random effects)	1116.43363062949	172	4.67241060572652e-138
+AIH	RDW	RDW	AIH	MR Egger	1116.42456674139	171	1.83105433852019e-138
+AIH	retic_count	retic_count	AIH	Inverse variance weighted (multiplicative random effects)	1776.3233359418	172	3.10412946817522e-264
+AIH	retic_count	retic_count	AIH	MR Egger	1774.33136157153	171	2.36700252798586e-264
+AIH	retic_pct	retic_pct	AIH	Inverse variance weighted (multiplicative random effects)	1491.31453715253	172	8.58371830800728e-209
+AIH	retic_pct	retic_pct	AIH	MR Egger	1486.66424277434	171	2.27921684557828e-208
+AIH	TBIL	TBIL	AIH	Inverse variance weighted (multiplicative random effects)	841.367035154845	172	9.62907174622302e-89
+AIH	TBIL	TBIL	AIH	MR Egger	835.637648269437	171	4.26994334480036e-88
+AIH	TSAT	TSAT	AIH	Inverse variance weighted (multiplicative random effects)	244.579089919966	173	0.000278112439360835
+AIH	TSAT	TSAT	AIH	MR Egger	243.031068057103	172	0.000294583909198441
+AIT	CRP	CRP	AIT	Inverse variance weighted (multiplicative random effects)	108.937461148166	11	2.98562748016246e-18
+AIT	CRP	CRP	AIT	MR Egger	55.054069116855	10	3.08546564957082e-08
+AIT	DBIL	DBIL	AIT	Inverse variance weighted (multiplicative random effects)	36.3010631494759	11	0.000150790339785049
+AIT	DBIL	DBIL	AIT	MR Egger	32.7597693213345	10	0.000298892662812906
+AIT	ferritin	ferritin	AIT	Inverse variance weighted (multiplicative random effects)	18.292069092323	11	0.0750463410385142
+AIT	ferritin	ferritin	AIT	MR Egger	18.050145435461	10	0.0541236276603136
+AIT	Hb	Hb	AIT	Inverse variance weighted (multiplicative random effects)	185.602118452328	11	7.13650696402789e-34
+AIT	Hb	Hb	AIT	MR Egger	97.3595857999949	10	1.83749361965965e-16
+AIT	Hct	Hct	AIT	Inverse variance weighted (multiplicative random effects)	114.322828057922	11	2.5012289927498e-19
+AIT	Hct	Hct	AIT	MR Egger	61.8511726206171	10	1.615071487357e-09
+AIT	IRF	IRF	AIT	Inverse variance weighted (multiplicative random effects)	18.8649876638718	11	0.0635604952501788
+AIT	IRF	IRF	AIT	MR Egger	18.3622149177241	10	0.0491524326277969
+AIT	MCH	MCH	AIT	Inverse variance weighted (multiplicative random effects)	37.4529232292394	11	9.6729229437934e-05
+AIT	MCH	MCH	AIT	MR Egger	35.5964938017661	10	9.87266788791573e-05
+AIT	MCHC	MCHC	AIT	Inverse variance weighted (multiplicative random effects)	58.6145463716547	11	1.67509362759134e-08
+AIT	MCHC	MCHC	AIT	MR Egger	37.6861898583245	10	4.30333118519815e-05
+AIT	MCV	MCV	AIT	Inverse variance weighted (multiplicative random effects)	110.523051532603	11	1.44022825168373e-18
+AIT	MCV	MCV	AIT	MR Egger	89.1072123093022	10	8.04981609809502e-15
+AIT	MRV	MRV	AIT	Inverse variance weighted (multiplicative random effects)	311.693333796128	11	3.00313663996809e-60
+AIT	MRV	MRV	AIT	MR Egger	150.76155582604	10	2.59850467200296e-27
+AIT	RBC	RBC	AIT	Inverse variance weighted (multiplicative random effects)	228.443425802579	11	8.96291739708495e-43
+AIT	RBC	RBC	AIT	MR Egger	142.172579527759	10	1.51121633858226e-25
+AIT	RDW	RDW	AIT	Inverse variance weighted (multiplicative random effects)	168.103191434808	11	2.89769111979377e-30
+AIT	RDW	RDW	AIT	MR Egger	89.6948964967641	10	6.15637213652796e-15
+AIT	retic_count	retic_count	AIT	Inverse variance weighted (multiplicative random effects)	214.651458987065	11	6.71056917353049e-40
+AIT	retic_count	retic_count	AIT	MR Egger	105.120424189788	10	5.1224563416121e-18
+AIT	retic_pct	retic_pct	AIT	Inverse variance weighted (multiplicative random effects)	150.52210261237	11	1.1658623777735e-26
+AIT	retic_pct	retic_pct	AIT	MR Egger	71.3448703239785	10	2.43675318311167e-11
+AIT	TBIL	TBIL	AIT	Inverse variance weighted (multiplicative random effects)	88.8047186576061	11	2.85769185608866e-14
+AIT	TBIL	TBIL	AIT	MR Egger	75.8945642823203	10	3.18549449313467e-12
+AIT	TSAT	TSAT	AIT	Inverse variance weighted (multiplicative random effects)	18.3822593737865	10	0.0488477826767721
+AIT	TSAT	TSAT	AIT	MR Egger	7.27151637214384	9	0.608873505478834
+GD	CRP	CRP	GD	Inverse variance weighted (multiplicative random effects)	157.387353005702	18	2.70180587216766e-24
+GD	CRP	CRP	GD	MR Egger	101.913501094845	17	3.92727918880831e-14
+GD	DBIL	DBIL	GD	Inverse variance weighted (multiplicative random effects)	39.7748260682032	18	0.00223968206413307
+GD	DBIL	DBIL	GD	MR Egger	38.6468959921753	17	0.00200099338962851
+GD	ferritin	ferritin	GD	Inverse variance weighted (multiplicative random effects)	24.5669533127047	19	0.175295509892144
+GD	ferritin	ferritin	GD	MR Egger	24.5459859829294	18	0.137941500039225
+GD	Hb	Hb	GD	Inverse variance weighted (multiplicative random effects)	350.37886284967	18	1.90070920703327e-63
+GD	Hb	Hb	GD	MR Egger	279.692804719468	17	1.71563910567542e-49
+GD	Hct	Hct	GD	Inverse variance weighted (multiplicative random effects)	236.820534267257	18	3.86161617536607e-40
+GD	Hct	Hct	GD	MR Egger	199.948576934282	17	2.93211977880097e-33
+GD	IRF	IRF	GD	Inverse variance weighted (multiplicative random effects)	49.1046664329522	18	0.000102972262803042
+GD	IRF	IRF	GD	MR Egger	45.3345397382215	17	0.00021708734487863
+GD	MCH	MCH	GD	Inverse variance weighted (multiplicative random effects)	86.967539581958	18	5.0356190789254e-11
+GD	MCH	MCH	GD	MR Egger	83.0134707798825	17	1.11294929181737e-10
+GD	MCHC	MCHC	GD	Inverse variance weighted (multiplicative random effects)	91.3479225819118	18	8.26433449216967e-12
+GD	MCHC	MCHC	GD	MR Egger	61.5093637868959	17	5.90936615091446e-07
+GD	MCV	MCV	GD	Inverse variance weighted (multiplicative random effects)	170.321631930715	18	7.8307135308182e-27
+GD	MCV	MCV	GD	MR Egger	137.848940530378	17	5.70543727355831e-21
+GD	MRV	MRV	GD	Inverse variance weighted (multiplicative random effects)	385.926254845068	18	7.82963310957477e-71
+GD	MRV	MRV	GD	MR Egger	209.772287268695	17	3.08037353161378e-35
+GD	RBC	RBC	GD	Inverse variance weighted (multiplicative random effects)	410.48158597985	18	5.95420339058523e-76
+GD	RBC	RBC	GD	MR Egger	329.496678641081	17	8.90787444134493e-60
+GD	RDW	RDW	GD	Inverse variance weighted (multiplicative random effects)	348.511242423355	18	4.63452737741964e-63
+GD	RDW	RDW	GD	MR Egger	271.146427842094	17	9.77083462866106e-48
+GD	retic_count	retic_count	GD	Inverse variance weighted (multiplicative random effects)	300.740635317403	18	3.39118111826293e-53
+GD	retic_count	retic_count	GD	MR Egger	198.081070440379	17	6.95769182690703e-33
+GD	retic_pct	retic_pct	GD	Inverse variance weighted (multiplicative random effects)	207.872571761067	18	2.65507497577116e-34
+GD	retic_pct	retic_pct	GD	MR Egger	133.402462023739	17	4.13753111273561e-20
+GD	TBIL	TBIL	GD	Inverse variance weighted (multiplicative random effects)	119.147140161032	18	6.07872303835458e-17
+GD	TBIL	TBIL	GD	MR Egger	81.9086686033893	17	1.75367740790274e-10
+GD	TSAT	TSAT	GD	Inverse variance weighted (multiplicative random effects)	45.3177207923023	18	0.000372798415049671
+GD	TSAT	TSAT	GD	MR Egger	39.0577044919938	17	0.00175443565450244
