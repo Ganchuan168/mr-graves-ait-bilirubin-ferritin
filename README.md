@@ -1,5 +1,7 @@
 # Analysis code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24158221.svg)](https://doi.org/10.5281/zenodo.24158221)
+
 Divergent bilirubin and concordant direction of ferritin effect in Graves'
 disease and autoimmune hypothyroidism: a subtype-resolved two-sample Mendelian
 randomization study
